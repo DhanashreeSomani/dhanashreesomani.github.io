@@ -5,4 +5,4 @@ type: "CV"
 permalink: /portfolio/IndustryCV
 
 ---
-[File](/files/Milind_Gunjal_Resume_QuantFinance.pdf)
+[File](/files/Dhanashree_Somani_Resume_QuantResearch.pdf)
