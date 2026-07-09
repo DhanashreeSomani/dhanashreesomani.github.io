@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I have a Ph.D. in Pure Math from [Florida State University](https://www.fsu.edu/). I have a strong background in abstract reasoning, probability, and quantitative analysis. I am now pivoting to the financial industry, where I aim to apply my analytical skills and mathematical training to quantitative research, trading, and data-driven financial modeling. I’m particularly interested in systematic strategies, risk modeling, and the mathematical foundations of market behavior.
+I am a current Ph.D. student in the Department of Statistics at the [University of Florida](https://stat.ufl.edu/). I am currently working broadly in the field of time series forecasting and analysis, and hypothesis testing. I have a strong background in probability, statistics and quantitative analysis. I am looking for internships in quantitative finance and related fields in the financial industry and hope to pursue a career in the same. 
 
-**Past**: My doctoral research is in the field of pure math, mainly in topics like K-theory, category theory, and homotopy theory. I worked on my dissertation with [Dr. Ettore Aldrovandi](https://www.math.fsu.edu/~ealdrov/).
-I previously completed my master's degree in math from [IISER, Kolkata](https://www.iiserkol.ac.in/web/en/academic/departments/#gsc.tab=0) with [Dr. Somnath Basu](https://math.iiserkol.ac.in/faculties/somnath_basu.html) as my advisor on a study of topological K-theory. 
+My doctoral research is in the field of ____. I am working on my dissertation with [Dr. Sayar Karmakar](https://sayarkarmakar.github.io/).
+I previously completed my master's degree in mathematics and statistics from [IISER, Kolkata](https://www.iiserkol.ac.in/web/en/academic/departments/#gsc.tab=0) with [Dr. Satyaki Mazumdar](https://math.iiserkol.ac.in/faculties/satyaki_mazumdar.html) as my advisor on a study of ____. 
 
-This semester:
- - I am teaching college algebra to three classes as an adjunct faculty at [Tallahassee State College](https://www.tsc.fl.edu/academics/academic-divisions/science-and-mathematics/).
- - I am working as a math expert at Project Rainforest at [Mercor](https://work.mercor.com/home?tab=contracts).
-
-Apart from research in math, I am an amateur trader. I enjoy playing pool, volleyball, and squash. I also like hiking and photography.
+Apart from research in statistics, I enjoy ____. I also like ____.
