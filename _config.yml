@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Milind's website"
+title                    : "Dhanashree's website"
 title_separator          : "-"
-name                     : &name "Milind Gunjal"
-description              : &description "Ph.D., Mathematics"
-url                      : https://milindgunjal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dhanashree Somani"
+description              : &description "Ph.D. Candidate, Statistics"
+url                      : https://dhanashreesomani.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MilindGujal/milindgunjal.github.io"
+repository               : "DhanashreeSomani/dhanashreesomani.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Milind Gunjal"
+  name             : "Dhanashree Somani"
   avatar           : "ProfilePic.jpeg"
-  bio              : "Ph.D., Mathematics"
-  employer         : "Faculty, Tallahassee State College"
-  location         : "Tallahassee, Florida"
+  bio              : "Ph.D. Candidate, Statistics"
+  employer         : "University of Florida"
+  location         : "Gainesville, Florida"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "milindvgunjal@gmail.com"
+  email            : "dssomani@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MilindGunjal"
+  github           : "DhanashreeSomani"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "milind-gunjal-phd"
+  linkedin         : "dhanashree-somani-519813152"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
